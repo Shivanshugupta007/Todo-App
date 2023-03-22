@@ -1,2 +1,2 @@
 # Todo-App
-Applied Node JS, Mongoose, NoSQL, CSS, Express JS, HTML.
+Applied Node JS, MongoDB Atlas, Mongoose, NoSQL, CSS, Express JS, HTML.
